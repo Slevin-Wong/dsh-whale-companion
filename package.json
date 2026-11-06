@@ -1,0 +1,48 @@
+{
+  "name": "@local/whale-companion",
+  "version": "1.3.0",
+  "private": true,
+  "description": "A large whale-girl companion floating in the corner of every Harness screen, keeping the DeepSeek balance in view and rotating through sixteen expressions from the DeepSeek-chan meme pack (GengJing). Fan-made, non-commercial.",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "whale",
+    "balance",
+    "decoration"
+  ],
+  "license": "MIT",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./assets/whale-chan.webp",
+    "./assets/*": "./assets/*"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "assets/*.webp",
+    "README.md",
+    "NOTICE.md",
+    "CHANGELOG.md",
+    "LICENSE"
+  ],
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true,
+      "inject": [
+        "@deepseek-ai/dsh-api-remotes",
+        "@deepseek-ai/dsh-api-remote-access",
+        "@deepseek-ai/dsh-client-locale",
+        "@deepseek-ai/dsh-client-ui-conversation"
+      ]
+    }
+  }
+}
