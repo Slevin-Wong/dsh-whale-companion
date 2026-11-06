@@ -9,7 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-DeepSeek%20Harness-1E3A5F)
 ![art](https://img.shields.io/badge/art-fan--made%20%C2%B7%20non--commercial-FFB3C3)
 
-!<img width="282" height="467" alt="Snipaste_2026-11-06_11-55-49" src="https://github.com/user-attachments/assets/a24642cd-bac1-47b3-be8d-8c5d3af99604" />
+<img width="1643" height="1034" alt="image" src="https://github.com/user-attachments/assets/6b59cd18-8d73-4804-88ab-1d87b0b258a2" />
 
 ## 亮点
 
