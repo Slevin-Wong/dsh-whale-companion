@@ -9,7 +9,7 @@
 ![platform](https://img.shields.io/badge/platform-DeepSeek%20Harness-1E3A5F)
 ![art](https://img.shields.io/badge/art-fan--made%20%C2%B7%20non--commercial-FFB3C3)
 
-![十六张鲸鱼娘表情](assets/gallery.webp)
+!<img width="282" height="467" alt="Snipaste_2026-11-06_11-55-49" src="https://github.com/user-attachments/assets/a24642cd-bac1-47b3-be8d-8c5d3af99604" />
 
 ## 亮点
 
@@ -35,8 +35,6 @@
         │ ‹  自动·顺序  ›   │   22px 控制条（悬停高亮）
         └──────────────────┘
 ```
-<img width="282" height="467" alt="Snipaste_2026-11-06_11-55-49" src="https://github.com/user-attachments/assets/a24642cd-bac1-47b3-be8d-8c5d3af99604" />
-
 - 充值余额与赠送额度分开显示，口径与官方账户页一致；赠送额度只显示正数。
 - 未登录账户（例如只用 API Key）显示「登录后就能看到余额啦」。
 - 读取失败时保留上一次的金额并整体变淡，不会闪成 0。
