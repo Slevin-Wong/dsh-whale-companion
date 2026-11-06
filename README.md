@@ -35,6 +35,7 @@
         │ ‹  自动·顺序  ›   │   22px 控制条（悬停高亮）
         └──────────────────┘
 ```
+<img width="282" height="467" alt="Snipaste_2026-11-06_11-55-49" src="https://github.com/user-attachments/assets/a24642cd-bac1-47b3-be8d-8c5d3af99604" />
 
 - 充值余额与赠送额度分开显示，口径与官方账户页一致；赠送额度只显示正数。
 - 未登录账户（例如只用 API Key）显示「登录后就能看到余额啦」。
